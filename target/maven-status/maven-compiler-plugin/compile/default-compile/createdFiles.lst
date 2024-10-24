@@ -1,0 +1,5 @@
+com\example\servlets\LoginServlet.class
+com\example\servlets\ManagerServlet.class
+com\example\servlets\SignUpServlet.class
+com\example\servlets\DatabaseConnection.class
+com\example\servlets\AdminServlet.class
